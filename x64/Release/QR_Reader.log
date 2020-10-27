@@ -1,6 +1,43 @@
 ﻿  QR_Reader.cpp
+C:\Users\user\source\repos\QR_Reader\QR_Reader.cpp(17,62): warning C4244: аргумент: преобразование "_Tp" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\user\source\repos\QR_Reader\QR_Reader.cpp(17,40): warning C4244: аргумент: преобразование "_Tp" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\user\source\repos\QR_Reader\QR_Reader.cpp(17,125): warning C4244: аргумент: преобразование "_Tp" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\user\source\repos\QR_Reader\QR_Reader.cpp(17,93): warning C4244: аргумент: преобразование "_Tp" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
   Создание кода
-  Previous IPDB not found, fall back to full compilation.
-  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  1 of 106 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   QR_Reader.vcxproj -> C:\Users\user\source\repos\QR_Reader\x64\Release\QR_Reader.exe
